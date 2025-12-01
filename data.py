@@ -1,0 +1,22 @@
+question_data = [
+    {"text": "What is the capital of France?", "answer": "Paris"},
+    {"text": "What is 2 + 2?", "answer": "4"},
+    {"text": "What is the color of the sky on a clear day?", "answer": "Blue"},
+    {"text": "How many continents are there?", "answer": "7"},
+    {"text": "What is the largest planet in our solar system?", "answer": "Jupiter"},
+    {"text": "Who wrote 'Romeo and Juliet'?", "answer": "William Shakespeare"},
+    {"text": "What is the chemical symbol for water?", "answer": "H2O"},
+    {"text": "What is the tallest mammal?", "answer": "Giraffe"},
+    {"text": "How many days are in a year?", "answer": "365"},
+    {"text": "What is the main ingredient in guacamole?", "answer": "Avocado"},
+    {"text": "What is the currency of Japan?", "answer": "Yen"},
+    {"text": "In which country are the pyramids of Giza located?", "answer": "Egypt"},
+    {"text": "What is the hardest natural substance on Earth?", "answer": "Diamond"},
+    {"text": "What is the capital of the United States?", "answer": "Washington D.C."},
+    {"text": "How many players are on a soccer team?", "answer": "11"},
+    {"text": "What is the name of the galaxy we live in?", "answer": "Milky Way"},
+    {"text": "What is the boiling point of water in Celsius?", "answer": "100"},
+    {"text": "Who painted the Mona Lisa?", "answer": "Leonardo da Vinci"},
+    {"text": "What is the smallest prime number?", "answer": "2"},
+    {"text": "What is the primary language spoken in Brazil?", "answer": "Portuguese"}
+]
