@@ -14,7 +14,7 @@ Managing clinical data with simple lists or loose variables is error-prone; sort
 
 ## How to Run
 1. Navigate to the project folder.
-2. Run the program:
+2. Run the program
    python main.py
 
 ## Key Learnings
