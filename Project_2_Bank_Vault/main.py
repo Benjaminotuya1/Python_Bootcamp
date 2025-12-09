@@ -7,15 +7,15 @@ class BankAccount:
         if amount > 0:
             self.__balance += amount
         else:
-            print("insufficient amount please try again!!!")
+            print("Error: Deposit amount must be positive.")
     def withdraw(self,amount):
         if amount > 0:
             if amount <= self.__balance:
                 self.__balance -= amount
             else:
-                print("Insulficient amount")
+                print(f"Error: Insufficient funds. You tried to withdraw {amount} but only have {self.__balance}.")
         else:
-            print("Check the amount entered")
+            print("Error: Withdrawal amount must be positive.")
     def balance(self):
         return self.__balance
 
