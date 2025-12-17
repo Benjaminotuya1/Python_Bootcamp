@@ -15,3 +15,9 @@
 * **The Concept:** **Inheritance** (Don't Repeat Yourself).
 * **The Breakthrough:** I learned that I can create a generic "Parent" class (`Animal`) and have "Child" classes (`Lion`) inherit all its code.
 * **The Magic:** **Polymorphism**. I can put Lions, Birds, and Elephants in the same list and loop through them. Even though I call the same method `.sleep()`, they all behave differently.
+
+## Project 4: The Shape Calculator 📐
+* **Date:** [Insert Date]
+* **The Concept:** **Abstract Base Classes** (The Enforcer).
+* **The Breakthrough:** I learned how to create a "Blueprint" class that forces other classes to follow specific rules.
+* **Why it matters:** In large systems (like Banking or Hospitals), you need to prevent other developers from creating incomplete objects. This makes the code "Fail Fast" and prevents bugs.
